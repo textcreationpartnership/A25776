@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings at Westminster-Hall, on the 29th and 30th of June, 1688 relating to the tryal and discharge of the Archbishop of Canterbury, the Bishop of S. Asaph, Bishop of Chichester, Bishop of Ely, Bishop of Bath and Wells, Bishop of Peterborough, and the Bishop of Bristol.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25776</idno>
+            <idno type="STC">Wing A363</idno>
+            <idno type="STC">ESTC R18992</idno>
+            <idno type="EEBO-CITATION">11752551</idno>
+            <idno type="OCLC">ocm 11752551</idno>
+            <idno type="VID">48611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48611)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings at Westminster-Hall, on the 29th and 30th of June, 1688 relating to the tryal and discharge of the Archbishop of Canterbury, the Bishop of S. Asaph, Bishop of Chichester, Bishop of Ely, Bishop of Bath and Wells, Bishop of Peterborough, and the Bishop of Bristol.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sancroft, William, 1617-1693.</term>
+               <term>Turner, Francis, 1638?-1700.</term>
+               <term>Lloyd, William, 1627-1717.</term>
+               <term>Lake, John, 1624-1689.</term>
+               <term>Ken, Thomas, 1637-1711.</term>
+               <term>White, Thomas, 1628-1698.</term>
+               <term>Trelawny, Jonathan, --  Sir, 1650-1721.</term>
+               <term>Trials (Libel) --  England.</term>
+               <term>Church and state --  England --  History --  17th century.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="trial_proceedings">
+            <pb facs="tcp:48611:1"/>
+            <pb n="1" facs="tcp:48611:1" rendition="simple:additions"/>
+            <head>An Account of the Proceedings at <hi>Weſtminſter-Hall,</hi> on the 29th, and 30th. of <hi>June,</hi> 1688. Relating to the <hi>Tryal</hi> and <hi>Diſcharge</hi> of the Archbiſhop of <hi>Canterbury,</hi> the Biſhop of S. <hi>Aſaph,</hi> Biſhop of <hi>Chicheſter,</hi> Biſhop of <hi>Ely,</hi> Biſhop of <hi>Bath</hi> and <hi>Wells,</hi> Biſhop of <hi>Peterborough,</hi> and the Biſhop of <hi>Briſtol.</hi>
+            </head>
+            <p>THE Indictment when read, was very much ex<g ref="char:EOLhyphen"/>cepted againſt, on the account of its Form, in that it did not mention all the Petition they were Indicted for; there was not either the Title <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> expreſſing to whom it was directed (<hi>Viz. To the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Moſt Excellent Majeſty,</hi> was omitted,) and the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> afterwards (<hi>We therefore Pray,</hi> &amp;c.) was not there; <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> being cloſely purſued by the Biſhops Council, ſeemed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lidate the whole buſineſs. Then it was not and could <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> proved by the Kings Council, that the Biſhops pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the Petition to the King. They had in the Corut the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>al, and ſubpoena'd ſome of the Arch-Biſhops and Bi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> Chaplains, Servants, and others, to prove their hand<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> was not done very clearly upon moſt of them; all the p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oof the Kings Council had for the preſenting the Pe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o His Majeſty, did not directly prove it upon them: T<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt it amounted to, was either that the King told the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he had it from the ſaid Biſhops; or, that my Lord Cha<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>llor did ask them, if it were theirs (when they were <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>mou'd before the King and Council,) and that they <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en expreſs'd an <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verſneſs to own it; ſaying <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>or<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the King, that if His Majeſty did inſiſt on it, and that it ſhould not be improved to their diſadvantage, or produc'd in evidence againſt them, that they would be plain, and leave it to His Majeſty. Upon this the Biſhops Council had ſome <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>flexions which my Lord Chief Juſtice told them he muſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hear. But thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did not amount to a full proof of the po<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t. Then the Biſhops Council did greatly inſiſt upon the Ind<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctment being laid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a wrong County; for it was proved upon Oath, that the Arch-Biſhop was not out of his Houſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or a very conſiderable time before he was ſummon'd to t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> King in Council. Now what was alledg'd againſt them was done at <hi>Lambeth,</hi> and therefore in <hi>Surrey</hi> the Indict<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent ought to have been laid, which ſeem'd much to affect <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em. After this, the Biſhops Council objected a<g ref="char:EOLhyphen"/>gainſt <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e term <hi>Publiſhing;</hi> whereas what was ſaid to be done <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, was in the privateſt way that could be, and g<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ly to the King, which caus'd a long debate between both P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rties, of things requiſite to denominate a <hi>Publica<g ref="char:EOLhyphen"/>tion,</hi> all did ſtill appear favourable on the Biſhops ſide: and here things were going to a concluſion, and the Judg was entered upon ſumming up the Evidence; but Mr. <hi>Finch,</hi> (one of the Biſhops Council) interrupted my Lord Chief Juſtice, ſaying, there was one material Evidence remaining: Whereupon, my Lord deſiſted, tho with ſome ſeeming diſ<g ref="char:EOLhyphen"/>ſatisfaction to the reſt of the Biſhops Council: For the Judg was going on very favourably for the Biſhops Cauſe; ſome of the Biſhops importun'd my Lord Chief Juſtice to proceed, but he would not: And ſo it brought on more diſcourſe a<g ref="char:EOLhyphen"/>bout the former ſubjects, and occaſion'd the ſending for my Lord Preſident, who came into Court after it had ſtayed an hour for him: The evidence that he gave upon Oath, could not fully prove the delivery of the Petition to the King by the Biſhops. When before, for the proof of this, the Sol<g ref="char:EOLhyphen"/>licitor did v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry greatly importune ſome Witneſs for the King, (that had upon Oath deliver'd, what they knew about this matter, which was as aforeſaid) by putting to them very intricate queſtions; my Lord Chief Juſtice reproved him, ſaying, it was not to be ſuffer'd; adding, that if he went on thus, he would let the Biſhops Council looſe on him.</p>
+            <p>After theſe things, my L. C. J. ask'd the Biſhops Coun<g ref="char:EOLhyphen"/>cil, what elſe they had to plead; whereupon they pro<g ref="char:EOLhyphen"/>ceeded to that part of the Indictment that called the Biſhops Petition <hi>A ſcandalous Seditious Label,</hi> &amp;c. which occaſion'd very great, ſolemn and moſt pleaſing debates, For, hereupon they entered into and diſcuſs'd the lawfulneſs of the De<g ref="char:EOLhyphen"/>claration and the Diſpenſing Power, which were harang'd by every one of the Biſhops Council in moſt brisk, home and admirable Speeches, for the ſpace of three hours, ſhewing the Declaration to be againſt and contrary to Law, which no Power could diſpence with or abrogate, but that which made it, (<hi>viz.</hi> a Parliament) and that the Eccleſiaſtical Laws had the ſame foundation as the Civil, and could be therefore no more diſpens'd with. That the Declaration did evacuate the Laws for Sabbath-breaking, Fornication, <hi>&amp;c.</hi> and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the re<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> extravagant Sects and licentious Practices; and that all Laws might be diſpens<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with, as well as ſome: That the Biſhops were ſworn to maintain the Eccleſiaſtical Laws; and in repreſenting the Caſe thus to His Majeſty they had done both as the Law directed them, and according to <hi>Prudence, Honour,</hi> and <hi>Conſcience.</hi> There were hereupon publickly read ſeveral Acts of Parliament, Records of the Tower, and Parliament Records; among which, one Act of Parliament was obſerveable; that gave the King Power to diſpence with a Law for a ſtated time: So that what Diſpenſing Power he ever had, was both given and bounded by Parliament. From what they produc'd out of the Parliament Records and otherwiſe, they greatly confirm'd what was ſaid in the Petition, of the Diſpenſing Power, having been often declared illegal in Parliament, and particularly in the years 62, and 72, and in the beginning of His Majeſties Reign, which was in 85, when the Par<g ref="char:EOLhyphen"/>liament declar'd the Popiſh Officers could not be diſpens'd with; but that is was contrary to Law to do ſo, tho they were willing by Act of Parliament to indemnifie ſuch as His Majeſty ſhould nominate, <hi>&amp;c.</hi> And they ſhew'd how the like Diſpenſing Power upon the ſame occaſion was accounted illegal in 62, and 72, both by Parliament and the King him<g ref="char:EOLhyphen"/>ſelf, who offered the Seal to be tore off, and gave the teſti<g ref="char:EOLhyphen"/>mony of his diſowning ſuch a Diſpenſing Power. To which the Sollicitors chief Anſwer was, that the King then lack'd Money, and that ſuch Acts as aforeſaid (whatever they might ſay) did confirm, not give the King's Diſpenſing Power. In ſhort, the Biſhops Council behav'd themſelves in this weighty matter with a great deal of gallantry and plainneſs, nowiſe inferior to moſt mens expectations and de<g ref="char:EOLhyphen"/>ſires. The chief of the managers for the King, was the Sollicitor <hi>Wi. Williams,</hi> who as was apprehended, did no great wonders for invalidating the foregoing Arguments He was very hot and earneſt (if not paſſionate) in proving it a
+<pb n="2" facs="tcp:48611:2"/>Libel; ſaying, It would be ſo, tho it were done by them to redreſs a certain grievance: Whereupon, my L. C. J. asking what courſe then they ſhould take, or what they ſhould do in ſuch circumſtances; he anſwered, <hi>Acquieſce.</hi> (which occaſion'd a very great Hiſs over the Court) He added farther to prove it Libellous; the inſinuating Expreſ<g ref="char:EOLhyphen"/>ſions of gaining the Populace, by ſaying, <q>It was not for want of due tenderneſs to Diſſenters, in relation to whom, we are willing to come to ſuch a temper, as ſhall be thought fit, when that matter ſhall be conſider'd and ſettled in Parliament and Convocation.]</q> In Convocation, ſaid he, what's the meaning of that? But here my L. C. J. gave him a check, and reſtrain'd what he ſeem'd greatly diſpos'd to vent againſt it. There was not very much ſaid by the reſt of the Kings Council, at leaſt, nothing more conſiderable than his. The King's Attorny General was pretty moderate, Sir <hi>Barth. Shores</hi> ſpoke a little, but was preſently ſilenc'd, (in the vacancy of ſtay for my Lord Preſident, my L. C. J. ſaid to Sir <hi>Barth. Shores,</hi> Now Sir <hi>Bartholomew,</hi> we have time to hear your Speeches) Serjeant <hi>Baldock</hi>'s Argument againſt the Biſhops, was chiefly upon their refuſing, the King requiring ſuch a ſlender matter ſo eaſily to be done; for they were not enjoyn'd to read, but only to ſend about and diſperſe it: Yet this they would not do. It concluded with the Kings Council.</p>
+            <p>Then my Lord Chief Juſtice ſumming up the buſineſs, was favourable to the Biſhops in the former part of the Tryal, and could not ſay the matter of Fact was fully proved upon them, but was inclin'd to make the Petition a Libel; becauſe of its accuſing the King of Flaws in Government. He ſaid but little to oppoſe what had been brought by the Biſhops Council againſt the Declaration and Diſpenſing Power. After him ſpoke Judg <hi>Holloway,</hi> and very much in the Biſhops behalf, giving it as his judgment, that it could not be a Libel, being done from a conviction of Conſcience by ſuch Perſons in ſuch an humble modeſt manner. Then Judg <hi>Powel</hi> ſpoke to the ſame effect, giving it as his opinion, that it could not be a Libel, being the only way to redre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them<g ref="char:EOLhyphen"/>ſelves: He had alſo ſome ſmart expreſſions to confirm what the Biſhops Council had urged againſt the Declaration and Diſpenſing. Power: So that Judg <hi>Powell</hi> gave his opinion al<g ref="char:EOLhyphen"/>ſo in favour of the Biſhops. Then Judg <hi>Allibon</hi> ſtanding up, profeſſed he would not meddle with the Diſpenſing Power (tho it had been ſo much canvaſs'd and pleaded a<g ref="char:EOLhyphen"/>gainſt) but would only ſpeak to the buſineſs of the Paper being a Libel; and he did accordingly, urging it to be ſo, not barely becauſe it was a Petition: For, ſaid he, Any one under grievance may Petition His Majeſty, but not about affairs of Government, for that would tend to very bad con<g ref="char:EOLhyphen"/>ſequences, and promote Diſcontents or worſe in the Na<g ref="char:EOLhyphen"/>tion. Nor (as he added) can the pretended fairneſs, as to the manner of it, be an excuſe; for the more it hath that way, ſo much the worſe; and ſo concluded it in his ſenſe a Libel. But urging a Precedent to confirm what he had ſaid, he was partly miſtaken in it, as Judg <hi>Powell</hi> and the Biſhops Council ſhew'd him, and he himſelf acknow<g ref="char:EOLhyphen"/>ledged.</p>
+            <p>Then the Court broke up, the Jury went together, and the Biſhops with all the privacy they could, to their reſpe<g ref="char:EOLhyphen"/>ctive Abodes; but wherever the People met with them, they huzza'd and humm'd them in a great abundance. There was a prodigious full Court and Hall, a very great many of the Peers and Nobility preſent, and alſo the Biſhop of <hi>Cheſter,</hi> of whom they took no kind of notice: The Biſhop of <hi>Rocheſter</hi> did not meet with much better regard.</p>
+            <p>The Jury ſate up all night, tho they were very ſoon una<g ref="char:EOLhyphen"/>nimous in their Verdict, which they prudently reſolved to give in open Court; add accordingly, next day about Nine or Ten they brought them in</p>
+            <p>
+               <hi>Not Guilty.</hi>
+            </p>
+         </div>
+         <div type="list_of_counsellors">
+            <head>The Names of the Lord Biſhops COUNSELLORS.</head>
+            <list>
+               <item>Sir <hi>Francis Pemberton.</hi>
+               </item>
+               <item>Sir <hi>Creſwell Levins.</hi>
+               </item>
+               <item>Sir <hi>Robert Sawyer.</hi>
+               </item>
+               <item>Mr. <hi>Finch.</hi>
+               </item>
+               <item>Mr. <hi>Pollixfin.</hi>
+               </item>
+               <item>Mr. <hi>Treby.</hi>
+               </item>
+               <item>Mr. <hi>Summers.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_jurors">
+            <head>The Names of the JURY Sworn.</head>
+            <list>
+               <item>Sir <hi>Roger Langly</hi> of <hi>Weſtminſter.</hi>
+               </item>
+               <item>Sir <hi>William Hill</hi> of <hi>Tedington.</hi>
+               </item>
+               <item>
+                  <hi>Robert Jennings</hi> of <hi>Hayes,</hi> Eſquire.</item>
+               <item>
+                  <hi>Thomas Harriot</hi> of <hi>Iſlington,</hi> Eſquire.</item>
+               <item>
+                  <hi>Jeoffry Nightingale</hi> of S. <hi>Giles Cripplegate,</hi> Eſq;</item>
+               <item>
+                  <hi>William Withers</hi> of the ſame, Eſquire.</item>
+               <item>
+                  <hi>William Avery</hi> of <hi>Enfield,</hi> Eſquire.</item>
+               <item>
+                  <hi>Thomas Auſtin</hi> of <hi>South-Myms,</hi> Eſquire</item>
+               <item>
+                  <hi>Nicholas Grice</hi> of <hi>Neſton,</hi> Eſquire.</item>
+               <item>
+                  <hi>Michael Arnold</hi> of <hi>Weſtminſter,</hi> Eſquire.</item>
+               <item>
+                  <hi>Thomas Done</hi> of <hi>S. Giles in the Fields,</hi> Eſquire.</item>
+               <item>
+                  <hi>Richard Shoreditch</hi> of <hi>Ickenham,</hi> Eſquire.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48611:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
